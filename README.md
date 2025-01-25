@@ -1,1 +1,1 @@
-Páginándooslos web de una receta.
+Páginá web de una receta.
